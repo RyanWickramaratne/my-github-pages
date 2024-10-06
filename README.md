@@ -2,7 +2,7 @@
 Hello! This is a basic static website created using **Markdown**.
 
 ## About Me
-- Name: John Doe
+- Name: Ryan  Wickramaratne
 - Interests:
   - Cloud Computing
   - Web Development
